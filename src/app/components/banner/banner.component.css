@@ -1,0 +1,38 @@
+.banner-container {
+    height: 500px;
+    margin-top: 20px;
+}
+
+.banner-img {
+    background: url(../../../../images/architectural-blueprints_sm.png); 
+    
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.banner-caixa {
+    width: 350px;
+    position: relative;
+    top: 45%;
+    background-color: #111C38;
+    margin: auto;
+    opacity: 90%;
+    text-align: center;
+    padding: 10px;
+}
+
+.banner-txt {
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}

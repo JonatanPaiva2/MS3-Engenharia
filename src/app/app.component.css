@@ -1,0 +1,15 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.img-rodape {
+    background: url(../../images/img-rodape_L.png); 
+    height: 900px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    /*background-attachment: fixed;*/
+}
+

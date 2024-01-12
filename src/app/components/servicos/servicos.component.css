@@ -1,0 +1,39 @@
+.servicos-container {
+    width: 100%;
+    height: 260px;
+    background-color: #111C38;
+}
+
+.servicos-list {
+    position: relative;
+    color: white;
+    width: 650px;
+    margin: auto;
+    top: 48px;
+}
+
+.servicos-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+}
+
+ul {
+    margin-top: 15px;
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    background-color: white;
+    color: #111C38;
+    font-size: medium;
+    font-weight: 600;
+
+    display: inline-block;
+    margin: 15px;
+    width: 120px;
+    height: 30px;
+
+    padding-top: 8px;
+}

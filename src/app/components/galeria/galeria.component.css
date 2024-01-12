@@ -1,0 +1,49 @@
+.galeria-container {
+    width: 1100px;
+    margin: auto;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+li {
+    display: inline-block;
+    width: 320px;
+    height: 220px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    transition: all 0.2s ease-in-out;
+}
+
+.img1 {
+    background-image: url(../../../../images/galeria-1.PNG);
+}
+
+.img2 {
+    background-image: url(../../../../images/galeria-2.jpeg);
+}
+
+.img3 {
+    background-image: url(../../../../images/galeria-3.PNG);
+}
+
+li:hover {
+    transition: all 0.3s ease-in-out;
+    opacity: 80%;
+}

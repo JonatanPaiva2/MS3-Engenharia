@@ -1,0 +1,52 @@
+.contato-container {
+    width: 1100px;
+    margin: auto;
+}
+
+.contato-box {
+    margin-top: 40px;
+    border: 2px solid rgb(177, 177, 177);
+    width: 500px;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+form {
+    margin: 20px;
+    width: 460px;
+    color: #111C38;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+input {
+    width: 100%;
+    height: 20px;
+    border: 2px solid rgb(177, 177, 177);
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #111C38;
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-weight: 600;
+    font-size: medium;
+}
+
+button:hover {
+    background-color: #1c2e5a;
+    cursor: pointer;
+}
+
+textarea {
+    border: 2px solid rgb(177, 177, 177);
+    margin-top: 5px;
+    width: 100%;
+    height: 10em;
+    resize: none;
+}

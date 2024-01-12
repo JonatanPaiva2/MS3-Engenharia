@@ -1,0 +1,33 @@
+.footer-container {
+    background-color: rgb(33, 33, 36);
+    color: white;
+    height: 200px;
+}
+
+.footer-box {
+    position: relative;
+    width: 650px;
+    margin: auto;
+    top: 60px;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+ul:not(:last-child){
+    margin-right: 155px;
+}
+
+ul:not(:last-child) li:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

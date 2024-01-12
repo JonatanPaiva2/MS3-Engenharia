@@ -1,0 +1,61 @@
+.quem-somos-container {
+    width: 100%;
+}
+
+.quem-somos-boxes {
+    margin: auto;
+    width: 850px;
+    height: 300px;
+}
+
+.quem-somos-img {
+    width: 50%;
+    height: 280px;
+    background-image: url(../../../../images/equipe-ms3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #111C38;
+    position: relative;
+    float: left;
+}
+
+.quem-somos-title {
+    color: white;
+    background-color: #111C38;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 18px 25px;
+
+    margin-left: 2%;
+
+    width: 25%;
+    position: relative;
+    float: left;
+}
+
+.quem-somos-empty-block {
+    background-color: #111C38;
+    
+    margin-left: 2%;
+
+    height: 55px;
+    width: 15%;
+    position: relative;
+    float: left;
+}
+
+.quem-somos-p {
+    color: white;
+    background-color: #111C38;
+    padding: 25px;
+    position: relative;
+    float: left;
+
+    margin-left: 2%;
+    margin-top: 2%;
+
+    width: 42%;
+    height: 158px;
+}
