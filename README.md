@@ -1,6 +1,14 @@
 # SiteMs3
 
+## Project Description
+Website for MS3 Engenharia construction company
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+
+## Technology Stack
+- HTML5
+- CSS3
+- TypeScript
+- Angular
 
 ## Development server
 
